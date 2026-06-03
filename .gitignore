@@ -41,5 +41,8 @@ next-env.d.ts
 /pnpm-lock.yaml
 .env
 *.tar.gz
-temp_auto_push.bat
-temp_interactive_push.bat
+
+.env.local
+.env.*.local
+.env.production
+.env.development
